@@ -25,6 +25,7 @@ class HelloControllerTest {
     @Autowired
     private MockMvc mvc;
 
+
     @Test
     @DisplayName("Hello Test")
     public void helloTest() throws Exception {
